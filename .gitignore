@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data files (download from insideairbnb.com)
+listings.csv
+listings.csv.gz
+cape_town_listings_clean.csv
+cape_town_listings_transformed.csv
